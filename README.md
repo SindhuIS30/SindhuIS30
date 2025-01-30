@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SindhuIS30
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking for a job
 - 📫 How to reach me sindhupattanashetty2@gmail.com
 - 😄 Pronouns: she
